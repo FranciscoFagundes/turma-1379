@@ -1,0 +1,1 @@
+class Client(var name: String, var idade: Int)
